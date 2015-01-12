@@ -1,0 +1,12 @@
+{
+  "name": "tdegrunt.ruby.rsense",
+  "title": "Ruby RSense",
+  "description": "Provides Ruby code completion",
+  "homepage": "https://github.com/tdegrunt/brackets-ruby-rsense-hints",
+  "version": "0.0.1",
+  "author": "Tom (https://github.com/tdegrunt)",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
